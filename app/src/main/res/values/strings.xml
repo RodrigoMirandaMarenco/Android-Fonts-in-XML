@@ -1,3 +1,16 @@
 <resources>
+
     <string name="app_name">Android-Fonts-in-XML</string>
+    <string name="android_developers_el_salvador">Android Developers El Salvador!</string>
+    <string name="dialog_title">Select Style</string>
+    <string name="font_type_normal">Normal</string>
+    <string name="font_type_italic">Italic</string>
+    <string name="change_font">Change Font</string>
+    <string name="welcome">Welcome</string>
+
+    <array name="font_types">
+        <item>@string/font_type_normal</item>
+        <item>@string/font_type_italic</item>
+    </array>
+
 </resources>
